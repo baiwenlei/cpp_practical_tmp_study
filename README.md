@@ -1,5 +1,7 @@
 # About C++ Template Metaprogramming
 
+主要看中README最后的一些资源链接
+
 ## Basics Review
 
 1. C++ Language Features Related to C++ TMP
